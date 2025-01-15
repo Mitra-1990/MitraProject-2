@@ -1,0 +1,13 @@
+{
+  "id" : "https://Mitra-1990.github.io/MitraProject-2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Mitra-1990/MitraProject-2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mitra-1990.github.io/MitraProject-2/manifests/manifest-2.json",
+    "label" : "tennis"
+  } ]
+}
