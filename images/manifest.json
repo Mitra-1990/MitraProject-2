@@ -7,5 +7,87 @@
             "All images loaded in Mitra-1990/MitraProject-2 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ryan-searle-qjrjJnFypa0-unsplash"
+                ]
+            },
+            "height": 2745,
+            "width": 2196,
+            "items": [
+                {
+                    "id": "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 69,
+                                                "height": 86
+                                            },
+                                            {
+                                                "width": 138,
+                                                "height": 172
+                                            },
+                                            {
+                                                "width": 275,
+                                                "height": 344
+                                            },
+                                            {
+                                                "width": 549,
+                                                "height": 687
+                                            },
+                                            {
+                                                "width": 1098,
+                                                "height": 1373
+                                            },
+                                            {
+                                                "width": 2196,
+                                                "height": 2745
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2196,
+                                        "@id": "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2745,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

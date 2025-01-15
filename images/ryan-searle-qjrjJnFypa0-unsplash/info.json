@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 69,
+    "height" : 86
+  }, {
+    "width" : 138,
+    "height" : 172
+  }, {
+    "width" : 275,
+    "height" : 344
+  }, {
+    "width" : 549,
+    "height" : 687
+  }, {
+    "width" : 1098,
+    "height" : 1373
+  }, {
+    "width" : 2196,
+    "height" : 2745
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2196,
+  "@id" : "https://Mitra-1990.github.io/MitraProject-2/images/ryan-searle-qjrjJnFypa0-unsplash",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2745
+}
